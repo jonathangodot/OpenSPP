@@ -1,9 +1,8 @@
 # generated from manifests external_dependencies
 faker
-schwifty
+xlrd
+boto3
+twilio
 extendable-pydantic
 pydantic
-requests
-xlrd
-twilio
-boto3
+schwifty
