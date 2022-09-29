@@ -7,3 +7,4 @@ extendable-pydantic
 pydantic
 schwifty
 cerberus
+pyquerystring
